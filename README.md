@@ -9,6 +9,7 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 
 #### Mudanças
 1. Segui com o projeto que foi apresentado no curso
-2. Inclui footer - com alguns
-3. Mudei algumas inscrições para uma linguagem mais procima
+2. Inclui footer
+3. Mudei algumas inscrições para uma linguagem mais proxima do instagram
+
 ## 🚀 Let's code! 🚀
