@@ -8,6 +8,7 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 #### Mudanças
-1. Inclui footer
-
+1. Segui com o projeto que foi apresentado no curso
+2. Inclui footer - com alguns
+3. Mudei algumas inscrições para uma linguagem mais procima
 ## 🚀 Let's code! 🚀
